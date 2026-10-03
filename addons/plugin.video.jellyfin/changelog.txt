@@ -1,0 +1,3 @@
+2.2.0 (2026-10-03)
+- Vendored into slim-kodi fork at addon/plugin.video.jellyfin
+- See https://github.com/jellyfin/jellyfin-kodi/releases for upstream changelog
